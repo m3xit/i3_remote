@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">i3_remote</string>
+    <string name="workspaces">Workspaces:</string>
+    <string name="ws1">1</string>
+    <string name="ws2">2</string>
+    <string name="ws3">3</string>
+    <string name="ws4">4</string>
+    <string name="ws5">5</string>
+    <string name="ws6">6</string>
+    <string name="ws7">7</string>
+    <string name="ws8">8</string>
+    <string name="ws9">9</string>
+    <string name="ws0">0</string>
+    <string name="move">move</string>
+    <string name="up">↑</string>
+    <string name="fullscreen">fullscreen</string>
+    <string name="left">←</string>
+    <string name="down">↓</string>
+    <string name="right">→</string>
+    <string name="youtube">Youtube</string>
+    <string name="exec">exec</string>
+    <string name="action_left">Previous Host</string>
+    <string name="action_right">Next Host</string>
+</resources>
